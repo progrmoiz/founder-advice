@@ -1,5 +1,7 @@
 # founder-advice
 
+![founder-advice hero](hero.png)
+
 **Your AI makes up startup advice. This skill doesn't.**
 
 1,449 real quotes from 141 founders with $36.8M/mo in combined revenue. Filtered by your stage. Zero hallucination.
