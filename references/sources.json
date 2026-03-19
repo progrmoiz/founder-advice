@@ -1,0 +1,2557 @@
+{
+  "version": 1,
+  "count": 141,
+  "sources": [
+    {
+      "founder": "Ryan Chen",
+      "product": "Neuro",
+      "product_type": "e-commerce",
+      "revenue": "$10 million/month",
+      "revenue_monthly": 10000000,
+      "niche": "functional gum and mints/nootropics",
+      "title": "The Underdog: From Life Changing Accident to $100M/Year",
+      "source_id": "708c7ff6-10de-4d7e-a509-447a6710f51e",
+      "quotes_extracted": 9,
+      "channels": [
+        "Indiegogo crowdfunding",
+        "Reddit organic",
+        "Shark Tank TV appearance",
+        "Organic celebrity endorsements",
+        "TikTok Shop"
+      ],
+      "first_customer_method": "Indiegogo crowdfunding",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Saba Kenned",
+      "product": "V.io",
+      "product_type": "SaaS",
+      "revenue": "$40M/yr",
+      "revenue_monthly": 3333333,
+      "niche": "video editing tools",
+      "title": "I Got Rejected From YC, Then Built a $200M Startup",
+      "source_id": "2ab2510b-ec4a-4cfa-88aa-80aa7c06f9f5",
+      "quotes_extracted": 7,
+      "channels": [
+        "SEO",
+        "YouTube organic"
+      ],
+      "first_customer_method": "implementing YC feedback over weekend",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Gam Mubes",
+      "product": "lemlist",
+      "product_type": "SaaS",
+      "revenue": "$30M ARR",
+      "revenue_monthly": 2500000,
+      "niche": "sales prospecting and outreach",
+      "title": "The Underdog: He Turned His Last $1,000 Into $150M",
+      "source_id": "c6540b65-90a3-41e8-91d3-c292292416b9",
+      "quotes_extracted": 10,
+      "channels": [
+        "live demos",
+        "outbound prospecting",
+        "content marketing with success stories"
+      ],
+      "first_customer_method": "live demos and outbound",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Casey Holiday",
+      "product": "Qalo",
+      "product_type": "e-commerce",
+      "revenue": "$30M",
+      "revenue_monthly": 2500000,
+      "niche": "silicone wedding rings",
+      "title": "The Underdog: From Dead Broke to $30,000,000",
+      "source_id": "de1f8bf1-0a25-4e55-8b06-8fb55566342e",
+      "quotes_extracted": 8,
+      "channels": [
+        "influencer outreach"
+      ],
+      "first_customer_method": "influencer outreach",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Ian Meers",
+      "product": "Oceans",
+      "product_type": "agency",
+      "revenue": "$15M/yr",
+      "revenue_monthly": 1250000,
+      "niche": "offshore talent outsourcing",
+      "title": "I Quit My Job & Accidentally Built A $10M Business",
+      "source_id": "c467806a-05e9-4ce6-8c93-ee925f54f1c6",
+      "quotes_extracted": 11,
+      "channels": [
+        "referrals/word of mouth",
+        "personal network"
+      ],
+      "first_customer_method": "friends network",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Lane Wagner",
+      "product": "boot.dev",
+      "product_type": "SaaS",
+      "revenue": "$1M/mo",
+      "revenue_monthly": 1000000,
+      "niche": "online coding education for backend developers",
+      "title": "My Coding Game Makes $1M Per Month",
+      "source_id": "5f2a178c-cc2d-452b-82ff-2ac8105453da",
+      "quotes_extracted": 12,
+      "channels": [
+        "blog content",
+        "influencer collaborations",
+        "Free Code Camp YouTube collaborations",
+        "YouTube influencer marketing to gaming audiences"
+      ],
+      "first_customer_method": "blog content",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Colin",
+      "product": "Sheets & Giggles",
+      "product_type": "e-commerce",
+      "revenue": "$1M/month",
+      "revenue_monthly": 1000000,
+      "niche": "bedding/bed sheets",
+      "title": "I Make $1M/Month From Bed",
+      "source_id": "68c1f7cc-3302-47cf-83d2-92f890ec301b",
+      "quotes_extracted": 12,
+      "channels": [
+        "Email marketing pre-launch",
+        "Facebook ads",
+        "Instagram ads",
+        "Google ads",
+        "Amazon ads",
+        "Podcast sponsorships",
+        "YouTube sponsorships"
+      ],
+      "first_customer_method": "Email list pre-launch campaign",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Aaron Spivak",
+      "product": "Hush Blankets",
+      "product_type": "e-commerce",
+      "revenue": "$48M in 4 years",
+      "revenue_monthly": 1000000,
+      "niche": "sleep products/weighted blankets",
+      "title": "The Underdog: He Turned His Last $4,000 Into $48M",
+      "source_id": "8313ee73-daa8-4ee2-91e7-3e382dc2aafd",
+      "quotes_extracted": 8,
+      "channels": [
+        "Google Ads",
+        "Kickstarter",
+        "Dragon's Den TV show",
+        "Email list"
+      ],
+      "first_customer_method": "Google Ads",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Oliver Brocato",
+      "product": "Tabs Chocolate",
+      "product_type": "e-commerce",
+      "revenue": "$11M/yr",
+      "revenue_monthly": 916667,
+      "niche": "sexual wellness/supplements",
+      "title": "I Make $11M/Year Selling One Product",
+      "source_id": "0e49f436-88ed-44e4-8d5f-01e3464d7ede",
+      "quotes_extracted": 9,
+      "channels": [
+        "TikTok organic",
+        "Instagram organic",
+        "YouTube shorts",
+        "Paid meme page placements",
+        "Google ads",
+        "Email and SMS marketing"
+      ],
+      "first_customer_method": "TikTok organic viral content",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Dicky Bush",
+      "product": "Ship 30 for 30",
+      "product_type": "online course",
+      "revenue": "$10M/year",
+      "revenue_monthly": 833333,
+      "niche": "online writing education",
+      "title": "He Quit His Job And Makes $10M/Year Writing Online",
+      "source_id": "3e17561e-61be-4c12-977b-1758c067a24c",
+      "quotes_extracted": 10,
+      "channels": [
+        "Twitter organic",
+        "Newsletter"
+      ],
+      "first_customer_method": "viral Twitter thread",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "David Park",
+      "product": "Jenny AI",
+      "product_type": "SaaS",
+      "revenue": "$10M/yr",
+      "revenue_monthly": 833333,
+      "niche": "AI-powered edtech tools for research and writing",
+      "title": "The $10M AI SaaS Playbook",
+      "source_id": "45220fcb-a2c9-4b52-8183-4b36c7bd1aa2",
+      "quotes_extracted": 16,
+      "channels": [
+        "TikTok organic",
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Influencer partnerships"
+      ],
+      "first_customer_method": null,
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Greg Eisenberg",
+      "product": "Late Checkout",
+      "product_type": "holding company",
+      "revenue": "$10M+/year",
+      "revenue_monthly": 833333,
+      "niche": "innovation agency and AI-assisted business tools",
+      "title": "The Multipreneur: He Makes $10M/Year With 6 Businesses",
+      "source_id": "48a6d100-ceb2-4db1-923f-a4085163015b",
+      "quotes_extracted": 11,
+      "channels": [
+        "Twitter organic",
+        "Community events",
+        "Cold DM"
+      ],
+      "first_customer_method": "orange wine disco parties in Williamsburg basements",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Blake Anderson",
+      "product": "Riz GPT, Umax, CI",
+      "product_type": "mobile app",
+      "revenue": "$10M total across 3 apps",
+      "revenue_monthly": 833333,
+      "niche": "AI-powered mobile apps",
+      "title": "He Made $10M with 3 iPhone Apps",
+      "source_id": "577d74fe-854c-4905-9084-eff095f5492c",
+      "quotes_extracted": 9,
+      "channels": [
+        "TikTok influencer marketing",
+        "Internal UGC",
+        "Paid ads"
+      ],
+      "first_customer_method": "TikTok influencer marketing",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Tibo",
+      "product": "Multiple SaaS Portfolio",
+      "product_type": "SaaS",
+      "revenue": "$700K/mo",
+      "revenue_monthly": 700000,
+      "niche": "AI tools, SEO, social media management, video creation, blogging",
+      "title": "I Built 4 SaaS Apps to $100K MRR: Here's My Exact Playbook",
+      "source_id": "ee2a2640-0e8a-4a15-ad07-0919c3b761ef",
+      "quotes_extracted": 10,
+      "channels": [
+        "Product Hunt launches",
+        "Social media/Building in public",
+        "SEO",
+        "Paid ads",
+        "Affiliate programs"
+      ],
+      "first_customer_method": "Direct outreach to 5-10 relevant people",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Yaser",
+      "product": "Chatbase",
+      "product_type": "SaaS",
+      "revenue": "$6.8M ARR",
+      "revenue_monthly": 566667,
+      "niche": "AI chatbots/conversational AI",
+      "title": "How I Built A $1M Business in 117 Days",
+      "source_id": "a0c27052-1708-46a2-8f3b-3f18a8434e10",
+      "quotes_extracted": 10,
+      "channels": [
+        "Twitter organic",
+        "Reddit organic",
+        "sponsored posts"
+      ],
+      "first_customer_method": "viral Twitter post",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Tim Stoddard",
+      "product": "Stazzi Internet Marketing",
+      "product_type": "agency",
+      "revenue": "$5.2-5.5M/yr",
+      "revenue_monthly": 441667,
+      "niche": "SEO lead generation",
+      "title": "I Make $5M/Year With 3 Businesses",
+      "source_id": "d34d9733-dab2-43f9-b716-6dc7e35d8260",
+      "quotes_extracted": 10,
+      "channels": [
+        "SEO organic"
+      ],
+      "first_customer_method": "SEO blog content",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Julian",
+      "product": "Gravel",
+      "product_type": "mobile app",
+      "revenue": "$440K/mo",
+      "revenue_monthly": 440000,
+      "niche": "AI fitness app",
+      "title": "How I Built It: $400K/Month Mobile App (Gravl)",
+      "source_id": "fe47e068-92da-4ef5-a717-0fda68ce872b",
+      "quotes_extracted": 8,
+      "channels": [
+        "Reddit organic",
+        "Meta ads",
+        "TikTok ads",
+        "Google ads",
+        "Apple search ads"
+      ],
+      "first_customer_method": "Reddit post",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Jeremy",
+      "product": "Van Man",
+      "product_type": "e-commerce",
+      "revenue": "$5M/yr",
+      "revenue_monthly": 416667,
+      "niche": "natural hygiene products",
+      "title": "I Built This $5M/Year Business From A Van",
+      "source_id": "bd6bdc87-b1b1-4e45-8674-8bf05e690c37",
+      "quotes_extracted": 9,
+      "channels": [
+        "Twitter organic",
+        "Instagram meme marketing",
+        "Email marketing"
+      ],
+      "first_customer_method": "Twitter community",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Ericos",
+      "product": "Kaching Bundles (and Kaching suite of apps)",
+      "product_type": "SaaS",
+      "revenue": "$4.5M/yr",
+      "revenue_monthly": 375000,
+      "niche": "Shopify apps for e-commerce upsells and discounts",
+      "title": "My Apps Make $4.5M/Year With $0 Marketing",
+      "source_id": "eae7323a-e706-4405-aba0-519bba341c99",
+      "quotes_extracted": 10,
+      "channels": [
+        "Shopify App Store organic",
+        "Discord communities and Facebook groups",
+        "Customer support driven reviews"
+      ],
+      "first_customer_method": "Manual outreach to existing clients and communities",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Sean",
+      "product": "Alia",
+      "product_type": "SaaS",
+      "revenue": "$4M ARR",
+      "revenue_monthly": 333333,
+      "niche": "e-commerce pop-ups",
+      "title": "How I Built a $4M Business (Simple Strategy)",
+      "source_id": "3c78bb0f-2137-4412-b1a0-e5cd249441f7",
+      "quotes_extracted": 8,
+      "channels": [
+        "content marketing",
+        "sales calls"
+      ],
+      "first_customer_method": "personal network",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Anton",
+      "product": "Letterly",
+      "product_type": "mobile app",
+      "revenue": "$250K/mo",
+      "revenue_monthly": 250000,
+      "niche": "speech-to-text/transcription",
+      "title": "How he makes $250K per month from a simple app (Letterly Breakdown)",
+      "source_id": "0cf48838-442b-4e74-8b9c-aa4f227caecf",
+      "quotes_extracted": 12,
+      "channels": [
+        "paid advertising"
+      ],
+      "first_customer_method": null,
+      "interview_quality": "high"
+    },
+    {
+      "founder": "John Rush",
+      "product": "Unicorn Platform",
+      "product_type": "SaaS",
+      "revenue": "$3M/yr",
+      "revenue_monthly": 250000,
+      "niche": "website builder for business founders",
+      "title": "I Make $250K/Month From 20 Apps",
+      "source_id": "2d562138-056a-4e5e-b037-2f31a1c6110d",
+      "quotes_extracted": 10,
+      "channels": [
+        "SEO",
+        "Social media marketing",
+        "Directory listings",
+        "Cross-promotion between apps",
+        "Building in public"
+      ],
+      "first_customer_method": "pre-sale with 90% discount after waitlist validation",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Sebastian Georgu",
+      "product": null,
+      "product_type": "SaaS",
+      "revenue": "$250K/mo",
+      "revenue_monthly": 250000,
+      "niche": null,
+      "title": "I Quit YouTube & Built a $1M App (Without My Audience)",
+      "source_id": "7799f78a-82f8-4d3d-95c3-1a937a71e8d7",
+      "quotes_extracted": 8,
+      "channels": [
+        "organic sharing in Discord communities",
+        "YouTube videos from other creators",
+        "short form content",
+        "paid ads",
+        "ChatGPT recommendations",
+        "SEO",
+        "app store organic"
+      ],
+      "first_customer_method": "organic sharing in Discord communities",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Joseph",
+      "product": "Super Demo",
+      "product_type": "SaaS",
+      "revenue": "$250K/mo",
+      "revenue_monthly": 250000,
+      "niche": "AI-powered demo automation for B2B SaaS",
+      "title": "How This $250K/Month SaaS Got Its First 100 Users (Steal This Playbook)",
+      "source_id": "78ba219b-6489-468f-936e-90052a11960d",
+      "quotes_extracted": 9,
+      "channels": [
+        "SEO content marketing",
+        "Free tools marketing",
+        "Reddit organic",
+        "Word of mouth/referrals",
+        "Building in public on LinkedIn"
+      ],
+      "first_customer_method": "Reddit and Indie Hackers - offering free demos",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "David Park",
+      "product": "Jenny AI",
+      "product_type": "SaaS",
+      "revenue": "$3M/yr",
+      "revenue_monthly": 250000,
+      "niche": "AI-powered content writing",
+      "title": "The Underdog: From His Parent\u2019s Basement to $25M",
+      "source_id": "f5c81972-b9a9-4c27-8f03-f509ee4d2220",
+      "quotes_extracted": 9,
+      "channels": [
+        "cold calling",
+        "viral Twitter thread inclusion",
+        "TikTok and Instagram reels"
+      ],
+      "first_customer_method": "cold calling agencies",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "David Brusser",
+      "product": "FormulaBot (formerly XL FormulaBot)",
+      "product_type": "SaaS",
+      "revenue": "$226,000/mo",
+      "revenue_monthly": 226000,
+      "niche": "AI-powered data analytics and spreadsheet tools",
+      "title": "I Built a $1M AI App [No Code]",
+      "source_id": "7b8146b7-e62f-4d23-ac04-2af7905e673c",
+      "quotes_extracted": 8,
+      "channels": [
+        "Reddit organic",
+        "Google ads",
+        "ESPN sponsorship"
+      ],
+      "first_customer_method": "coworkers at full-time job",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Charlie Chang",
+      "product": "Charlie Chang YouTube Channels + Paired Staffing",
+      "product_type": "content site",
+      "revenue": "$200-250K/mo",
+      "revenue_monthly": 225000,
+      "niche": "finance/entrepreneurship content + overseas staffing",
+      "title": "I Make $2.4M/Year With 6 YouTube Channels",
+      "source_id": "2ce5e935-159b-4c3a-879e-89476313183e",
+      "quotes_extracted": 12,
+      "channels": [
+        "YouTube organic",
+        "SEO content"
+      ],
+      "first_customer_method": "YouTube AdSense",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Carl Hughes",
+      "product": "Draft.dev",
+      "product_type": "agency",
+      "revenue": "$2.5M/yr",
+      "revenue_monthly": 208333,
+      "niche": "technical content for developer marketing",
+      "title": "He Built A $2.5M/Year Business In 2 Years",
+      "source_id": "1f35d88e-daba-44a0-8df4-027579aa1cbd",
+      "quotes_extracted": 10,
+      "channels": [
+        "referrals and word of mouth",
+        "organic search and social media",
+        "cold outreach"
+      ],
+      "first_customer_method": "personal network outreach",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Andre Heckle Jr",
+      "product": "List Kit",
+      "product_type": "SaaS",
+      "revenue": "$200K/mo",
+      "revenue_monthly": 200000,
+      "niche": "cold email lead generation",
+      "title": "I Built A $1M SaaS In 87 Days",
+      "source_id": "54bf5f3e-0cd8-4812-b12b-be462cea71c6",
+      "quotes_extracted": 10,
+      "channels": [
+        "cold email",
+        "paid ads",
+        "content marketing",
+        "existing product ecosystem"
+      ],
+      "first_customer_method": "existing customer base from agency and coaching",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Mike",
+      "product": "Multiple SaaS apps (curator.io, frill.co, juno.co, fluke.co, soonmile.co)",
+      "product_type": "SaaS",
+      "revenue": "$200K/mo",
+      "revenue_monthly": 200000,
+      "niche": "Multiple SaaS verticals",
+      "title": "I Built 3 SaaS Apps to $200K MRR: Here's My Exact Playbook",
+      "source_id": "ec3c45c2-6fc8-4902-b213-b6296c286ffb",
+      "quotes_extracted": 11,
+      "channels": [
+        "Private lifetime deals",
+        "AppSumo marketplace",
+        "Content marketing",
+        "Reddit organic"
+      ],
+      "first_customer_method": "Private lifetime deals",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Joseph",
+      "product": "Stealth GPT",
+      "product_type": "SaaS",
+      "revenue": "$190K/mo",
+      "revenue_monthly": 190000,
+      "niche": "AI text detection bypass",
+      "title": "I Turned $150 into $2M/Year",
+      "source_id": "75329663-eca6-4b3a-a888-8d90e9bc7141",
+      "quotes_extracted": 8,
+      "channels": [
+        "Future Pedia listing",
+        "TikTok organic",
+        "Instagram organic",
+        "Google Ads"
+      ],
+      "first_customer_method": "Future Pedia listing + TikTok influencer coverage",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Henry and Dylan",
+      "product": "Clip.co",
+      "product_type": "agency",
+      "revenue": "$2M/yr",
+      "revenue_monthly": 166667,
+      "niche": "animation and video editing services",
+      "title": "They Built A $2M Business To Fund Their Dreams",
+      "source_id": "07da2890-a8a5-42c6-986d-4f7a84d213f9",
+      "quotes_extracted": 10,
+      "channels": [
+        "free work blitz marketing",
+        "YouTube shorts",
+        "newsletter"
+      ],
+      "first_customer_method": "free work blitz strategy",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Pat Walls",
+      "product": "Starter Story",
+      "product_type": "content site",
+      "revenue": "$1.8M/year",
+      "revenue_monthly": 150000,
+      "niche": "entrepreneurship/business content",
+      "title": "9 Things That Make Me $1.8M/Year",
+      "source_id": "325eb128-291c-4bfa-99b2-feb4435770dc",
+      "quotes_extracted": 10,
+      "channels": [
+        "Reddit organic",
+        "YouTube",
+        "Email marketing"
+      ],
+      "first_customer_method": "Reddit post",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Katie Keith",
+      "product": "Barn 2",
+      "product_type": "WordPress plugins",
+      "revenue": "$150K/mo",
+      "revenue_monthly": 150000,
+      "niche": "WordPress/WooCommerce plugins",
+      "title": "I Make $150K/Month From 20 Tiny Apps",
+      "source_id": "bd230a28-9ff7-4a31-9a83-07c929f63fae",
+      "quotes_extracted": 9,
+      "channels": [
+        "SEO/organic search",
+        "cross-promotion between products",
+        "email marketing"
+      ],
+      "first_customer_method": "organic search",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Brett Williams",
+      "product": "Design Joy",
+      "product_type": "agency",
+      "revenue": "$1.8M/yr",
+      "revenue_monthly": 150000,
+      "niche": "graphic design and web design",
+      "title": "The $1.8M Solopreneur Playbook",
+      "source_id": "fac4b1dd-bcc8-453b-8eea-3395e561c176",
+      "quotes_extracted": 8,
+      "channels": [
+        "direct website sales"
+      ],
+      "first_customer_method": "simple landing page with underpriced service",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Justin",
+      "product": "Knowledge entrepreneur portfolio",
+      "product_type": "content site",
+      "revenue": "$1.7M/yr",
+      "revenue_monthly": 141667,
+      "niche": "business education/social media marketing",
+      "title": "The Solopreneur: He Makes $1.7M With 0 Employees",
+      "source_id": "772e14dc-194b-4bb5-9187-22666cb9002f",
+      "quotes_extracted": 10,
+      "channels": [
+        "LinkedIn organic",
+        "Twitter organic",
+        "Newsletter"
+      ],
+      "first_customer_method": null,
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Kletchi",
+      "product": "Social Wizard and Clean Eats",
+      "product_type": "mobile app",
+      "revenue": "$1.5M in 12 months",
+      "revenue_monthly": 125000,
+      "niche": "social skills and health/fitness",
+      "title": "My 2 apps made $1.5M",
+      "source_id": "3580fc14-1ce3-4a7d-ac15-e6e022a4a3ba",
+      "quotes_extracted": 11,
+      "channels": [
+        "TikTok organic with micro streamers"
+      ],
+      "first_customer_method": "viral TikTok content with micro streamers",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Mason",
+      "product": "Copy MBA",
+      "product_type": "education company",
+      "revenue": "$1M in 96 days",
+      "revenue_monthly": 125000,
+      "niche": "copywriting education",
+      "title": "I Made $2.3M Writing Like a 5th Grader",
+      "source_id": "ae61b4f5-fd70-42a6-9905-5ea37fc7c297",
+      "quotes_extracted": 9,
+      "channels": [
+        "Instagram ad prospecting + cold email",
+        "TikTok content",
+        "networking/relationship building"
+      ],
+      "first_customer_method": "cold email from Instagram ads",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Ramone, Blaine, and Justin",
+      "product": "Cast Magic",
+      "product_type": "SaaS",
+      "revenue": "$120K/mo",
+      "revenue_monthly": 120000,
+      "niche": "AI content creation and podcast repurposing",
+      "title": "They Make $1.4M/Year With AI",
+      "source_id": "65085e54-0312-448d-9e4b-47552c76a888",
+      "quotes_extracted": 10,
+      "channels": [
+        "AppSumo partnership",
+        "Creator partnerships and affiliates",
+        "Instagram scraping for outreach"
+      ],
+      "first_customer_method": "AppSumo partnership",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Thomas Frank",
+      "product": "Ultimate Brain and Creators Companion",
+      "product_type": "digital products",
+      "revenue": "$100K-$120K/mo",
+      "revenue_monthly": 110000,
+      "niche": "productivity and notion templates",
+      "title": "I Made $2.5M Selling A Digital Product",
+      "source_id": "ef93ce96-7680-4cda-8483-cd0b34c2b63d",
+      "quotes_extracted": 9,
+      "channels": [
+        "YouTube organic",
+        "Email marketing"
+      ],
+      "first_customer_method": "YouTube channel funnel",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Brett",
+      "product": "Design Joy",
+      "product_type": "agency",
+      "revenue": "$1.3M/year",
+      "revenue_monthly": 108333,
+      "niche": "design services",
+      "title": "I Make $1.3M/Year With One Skill",
+      "source_id": "4091a4c7-73d7-4ec2-944e-0714d39327d1",
+      "quotes_extracted": 8,
+      "channels": [
+        "Product Hunt",
+        "Twitter organic",
+        "Building in public"
+      ],
+      "first_customer_method": "Product Hunt launch",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Dustin",
+      "product": "Magi AI",
+      "product_type": "SaaS",
+      "revenue": "almost $100,000 a month",
+      "revenue_monthly": 100000,
+      "niche": "AI platform/aggregator",
+      "title": "I built a $100K/month AI app",
+      "source_id": "13f10b0d-ba74-4d80-9edd-176fb9dc9270",
+      "quotes_extracted": 7,
+      "channels": [
+        "email list",
+        "building in public",
+        "affiliate program",
+        "industry relationships"
+      ],
+      "first_customer_method": "personal email list",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Nico",
+      "product": "Neuroframes",
+      "product_type": "SaaS",
+      "revenue": "$100K/mo",
+      "revenue_monthly": 100000,
+      "niche": "AI music video generation",
+      "title": "My AI App Makes $100K/Month",
+      "source_id": "3b53d19c-ac4b-4243-9a18-6342811e2f85",
+      "quotes_extracted": 10,
+      "channels": [
+        "Hacker News organic",
+        "SEO",
+        "Personal branding"
+      ],
+      "first_customer_method": "Hacker News post",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Nick Buzz",
+      "product": "Baked",
+      "product_type": "agency",
+      "revenue": "$1.2M/year",
+      "revenue_monthly": 100000,
+      "niche": "design subscription agency",
+      "title": "Faceless: From Immigrant to $1M/Year",
+      "source_id": "e088b137-def7-467f-a4f5-0dff6f6b751f",
+      "quotes_extracted": 8,
+      "channels": [
+        "Twitter roasting",
+        "Logo design contests",
+        "Dribbble"
+      ],
+      "first_customer_method": "Twitter roasting posts",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Alex Lieberman",
+      "product": "Story ARB",
+      "product_type": "agency",
+      "revenue": "$84K/mo",
+      "revenue_monthly": 84000,
+      "niche": "B2B executive ghostwriting",
+      "title": "The Multipreneur: He\u2019s Building A $10M Portfolio of Income Streams",
+      "source_id": "7231a0bf-32cc-4399-a7bf-a0e5e2503b8d",
+      "quotes_extracted": 11,
+      "channels": [
+        "Twitter organic"
+      ],
+      "first_customer_method": "Twitter validation tweet",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Jacob",
+      "product": "Faceless Video",
+      "product_type": "SaaS",
+      "revenue": "$1M ARR",
+      "revenue_monthly": 83333,
+      "niche": "Social media automation",
+      "title": "I Built a $1M SaaS 100% with No Code (Bubble)",
+      "source_id": "524dfa87-f499-4afd-af2b-4f0a858ec10a",
+      "quotes_extracted": 12,
+      "channels": [
+        "Twitter ads",
+        "SEO",
+        "Paid ads",
+        "Influencer marketing",
+        "Organic content",
+        "Word of mouth"
+      ],
+      "first_customer_method": "Twitter thread ad",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Pat Walls",
+      "product": "Starter Story",
+      "product_type": "content site",
+      "revenue": "$1M/yr",
+      "revenue_monthly": 83333,
+      "niche": "business case studies and entrepreneurship content",
+      "title": "How I Built A $1M Business From This Starbucks",
+      "source_id": "5ae8681e-e7c4-4a29-b803-76721b3d29c0",
+      "quotes_extracted": 5,
+      "channels": [
+        "Reddit organic",
+        "newsletter",
+        "affiliate marketing"
+      ],
+      "first_customer_method": "newsletter sponsorship",
+      "interview_quality": "medium"
+    },
+    {
+      "founder": "Alex",
+      "product": "Finn Versus",
+      "product_type": "affiliate marketing website",
+      "revenue": "$1M/year",
+      "revenue_monthly": 83333,
+      "niche": "health and wellness product reviews",
+      "title": "I Make $1M/Year With One Website",
+      "source_id": "9cbe052f-9dac-434e-8f10-743b58b92cef",
+      "quotes_extracted": 12,
+      "channels": [
+        "organic SEO",
+        "paid advertising"
+      ],
+      "first_customer_method": "organic SEO and direct brand partnerships",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Matt",
+      "product": "Swim University",
+      "product_type": "content site",
+      "revenue": "$1M/year",
+      "revenue_monthly": 83333,
+      "niche": "pool and hot tub care education",
+      "title": "I Turned One Website Into $1M/Year",
+      "source_id": "d6e581ed-bb27-4bd2-bb36-65670f084eb4",
+      "quotes_extracted": 7,
+      "channels": [
+        "SEO blog content",
+        "YouTube long-form",
+        "Email newsletter",
+        "Short-form video",
+        "Paid ads"
+      ],
+      "first_customer_method": "AdSense",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Dawson",
+      "product": "Nifty",
+      "product_type": "web app",
+      "revenue": "$1M ARR",
+      "revenue_monthly": 83333,
+      "niche": "crypto/ethereum airdrops",
+      "title": "I Built A $1M App In 5 Hours",
+      "source_id": "e88a1020-bcca-430c-86d3-73afcd3662cc",
+      "quotes_extracted": 12,
+      "channels": [
+        "Twitter organic",
+        "conferences",
+        "anti-email strategy"
+      ],
+      "first_customer_method": "viral Twitter post",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Mark Lou",
+      "product": "ShipFast",
+      "product_type": "SaaS",
+      "revenue": "$80K/mo",
+      "revenue_monthly": 80000,
+      "niche": "developer tools",
+      "title": "The Underdog: From $10/hr to $1.5M/Year",
+      "source_id": "300eb9a8-f5ab-455f-a97f-40df33e8c646",
+      "quotes_extracted": 10,
+      "channels": [
+        "cold email",
+        "viral launch content",
+        "free tools marketing",
+        "YouTube"
+      ],
+      "first_customer_method": "cold email",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Mark",
+      "product": null,
+      "product_type": "agency",
+      "revenue": "$80K/mo",
+      "revenue_monthly": 80000,
+      "niche": "design agency",
+      "title": "Teen From Kazakhstan Makes $1M/Year Online",
+      "source_id": "fcf07ee1-c5cd-4d2a-89b3-c9c85d7663ba",
+      "quotes_extracted": 7,
+      "channels": [
+        "X organic",
+        "free work in public",
+        "giveaways"
+      ],
+      "first_customer_method": "free redesign posted on X",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Mark and Julia",
+      "product": "Papermark",
+      "product_type": "SaaS",
+      "revenue": "$75K/mo",
+      "revenue_monthly": 75000,
+      "niche": "Document sharing and analytics",
+      "title": "How We Built It: $900K Open Source SaaS",
+      "source_id": "e89cb361-1339-44f2-8ffd-6b150fead84f",
+      "quotes_extracted": 8,
+      "channels": [
+        "Twitter organic",
+        "Building in public",
+        "Hacktoberfest participation"
+      ],
+      "first_customer_method": "Twitter launch",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Marcos",
+      "product": "The Birdhouse",
+      "product_type": "agency",
+      "revenue": "$70K/mo",
+      "revenue_monthly": 70000,
+      "niche": "Twitter ghost writing for coaches, consultants, and education companies",
+      "title": "I Make $1M/Year As An Introvert",
+      "source_id": "312069ca-339f-4f96-9e46-8ed82c5447df",
+      "quotes_extracted": 12,
+      "channels": [
+        "Upwork",
+        "Twitter DMs (cold)",
+        "Twitter DMs (warm)",
+        "Referrals",
+        "Inbound leads"
+      ],
+      "first_customer_method": "Upwork",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Vasco",
+      "product": "Arvo",
+      "product_type": "SaaS",
+      "revenue": "$70K/mo",
+      "revenue_monthly": 70000,
+      "niche": "AI-powered SEO tools for marketing agencies",
+      "title": "I Built a $1M SaaS Using YouTube",
+      "source_id": "58ddbabf-e6c9-4981-b716-1c9f758d8db2",
+      "quotes_extracted": 10,
+      "channels": [
+        "YouTube organic",
+        "YouTube paid ads (infeed)"
+      ],
+      "first_customer_method": "YouTube organic content",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Alex Garcia",
+      "product": "Marketing Exam (and 4 other newsletters)",
+      "product_type": "content site",
+      "revenue": "$65K-70K/mo",
+      "revenue_monthly": 67500,
+      "niche": "Marketing and business content",
+      "title": "I Make $845,601 Writing This Online...",
+      "source_id": "c7429320-b3dd-48b5-98a4-178e13b93ba6",
+      "quotes_extracted": 10,
+      "channels": [
+        "Twitter organic threads",
+        "Paid acquisition (Facebook, Instagram, TikTok, Reddit ads)",
+        "Cross promotions via SparkLoop/Beehive"
+      ],
+      "first_customer_method": "Hand-to-hand combat and Twitter threads",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Lara Costa",
+      "product": "Cleo",
+      "product_type": "SaaS",
+      "revenue": "$60K/month",
+      "revenue_monthly": 60000,
+      "niche": "LinkedIn content creation/AI ghostwriting",
+      "title": "How My App Hit $60K/Month in 2 Months",
+      "source_id": "1ff0f9f9-6cd2-4fbc-81e6-a3dafdf4507d",
+      "quotes_extracted": 15,
+      "channels": [
+        "LinkedIn organic content",
+        "Email nurture sequence",
+        "LinkedIn Live webinars"
+      ],
+      "first_customer_method": "waitlist launch via LinkedIn live webinar",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Thomas",
+      "product": "Packager",
+      "product_type": "SaaS",
+      "revenue": "$60K/month",
+      "revenue_monthly": 60000,
+      "niche": "Microsoft Intune application deployment for IT admins",
+      "title": "I Make $60K/Month From the Most Boring SaaS on the Internet",
+      "source_id": "6ab18bf7-f32a-4a0e-93fa-032d3e50071c",
+      "quotes_extracted": 9,
+      "channels": [
+        "Reddit organic",
+        "Microsoft MVP partnerships",
+        "YouTube content marketing"
+      ],
+      "first_customer_method": "Reddit launch",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Ure",
+      "product": "Rummer, Parakeet AI, Optivase, Parakeet AI Apply Agent",
+      "product_type": "multiple (hardware device, SaaS, B2B SaaS, AI agent)",
+      "revenue": "$60K/mo",
+      "revenue_monthly": 60000,
+      "niche": "automotive hardware, AI interview assistance, web development tools, job application automation",
+      "title": "I Make $60K/Month with 4 Apps",
+      "source_id": "b39fd321-732b-4d4b-b6fb-06434db7c510",
+      "quotes_extracted": 16,
+      "channels": [
+        "TikTok organic",
+        "Instagram organic",
+        "YouTube organic",
+        "Webflow app store",
+        "Google organic",
+        "Facebook ads",
+        "Google ads"
+      ],
+      "first_customer_method": "organic short form content",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Adam Liddell",
+      "product": "Portfolio of mobile apps",
+      "product_type": "mobile app",
+      "revenue": "$50-60K/mo",
+      "revenue_monthly": 55000,
+      "niche": "mobile apps",
+      "title": "The Underdog: From $200K in Debt to $1M App Maker",
+      "source_id": "250f3de8-9aad-4e6c-9c5d-b90331511766",
+      "quotes_extracted": 7,
+      "channels": [
+        "app store organic",
+        "YouTube"
+      ],
+      "first_customer_method": "app store organic",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Scott",
+      "product": null,
+      "product_type": "productized service",
+      "revenue": "$50K/mo",
+      "revenue_monthly": 50000,
+      "niche": "short animated videos for B2B SaaS companies",
+      "title": "He Built A $600,000 One Person Business (with video editing)",
+      "source_id": "bfbdede2-1e49-48e8-b4bf-4aa3988697a5",
+      "quotes_extracted": 10,
+      "channels": [
+        "Twitter organic",
+        "cold email",
+        "LinkedIn direct messages"
+      ],
+      "first_customer_method": "cold outreach and organic Twitter content",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Cole",
+      "product": "Hide or Die",
+      "product_type": "mobile app",
+      "revenue": "$45K/mo",
+      "revenue_monthly": 45000,
+      "niche": "Roblox gaming",
+      "title": "I Spent 24 Hours With Roblox Millionaires",
+      "source_id": "594456dd-2099-4479-9e9d-95fcbf7a5dda",
+      "quotes_extracted": 9,
+      "channels": [
+        "Roblox organic discovery"
+      ],
+      "first_customer_method": "Roblox platform organic discovery",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Loic",
+      "product": "Drop Magic",
+      "product_type": "SaaS",
+      "revenue": "$45K/mo",
+      "revenue_monthly": 45000,
+      "niche": "e-commerce",
+      "title": "My Apps Failed Until I Discovered This Playbook ($35K/month apps)",
+      "source_id": "d5c65972-6a41-4508-8d9d-eaaf86cbe76c",
+      "quotes_extracted": 10,
+      "channels": [
+        "YouTube creators partnership",
+        "Newsletter validation"
+      ],
+      "first_customer_method": "problem validation from e-commerce owner",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Steven",
+      "product": "Puff Count",
+      "product_type": "mobile app",
+      "revenue": "$44K/mo",
+      "revenue_monthly": 44000,
+      "niche": "quit vaping/health",
+      "title": "The $1M Mobile App Playbook",
+      "source_id": "9aae5684-b763-4c8b-a509-912953b974de",
+      "quotes_extracted": 14,
+      "channels": [
+        "TikTok organic",
+        "TikTok paid ads",
+        "Meta paid ads",
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Twitter"
+      ],
+      "first_customer_method": "TikTok organic",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Sajila Mazafir (CJ)",
+      "product": "Code Guide",
+      "product_type": "SaaS",
+      "revenue": "$42K/mo",
+      "revenue_monthly": 42000,
+      "niche": "AI coding tools",
+      "title": "From Zero to $42K/Month in 90 Days with AI",
+      "source_id": "7e1b9850-54da-4401-a4ad-69b085c5a7a9",
+      "quotes_extracted": 10,
+      "channels": [
+        "Twitter organic",
+        "Tutorial marketing"
+      ],
+      "first_customer_method": "Twitter viral tweet and waitlist",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Dominico",
+      "product": "Multiple apps (Pitch 2.0, OneUp.ai, YourCoverLetter.com, RecapAI.com, QuitsBot.io, WebDesigner.io, SoftGen.ai)",
+      "product_type": "SaaS",
+      "revenue": "$500K ARR",
+      "revenue_monthly": 41667,
+      "niche": "AI-powered micro SaaS tools",
+      "title": "I made $1M flipping apps",
+      "source_id": "88777d7b-10a9-48b6-9a22-7e1e28da1232",
+      "quotes_extracted": 8,
+      "channels": [
+        "X (Twitter) organic",
+        "Building in public",
+        "Landing page validation"
+      ],
+      "first_customer_method": "Landing page validation with email collection",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Steven Creada",
+      "product": "Puff Count",
+      "product_type": "mobile app",
+      "revenue": "$40K/mo",
+      "revenue_monthly": 40000,
+      "niche": "health/vaping cessation",
+      "title": "How I Built It: $40K/Month iPhone App",
+      "source_id": "020f3380-00ab-445f-9080-2b895da28642",
+      "quotes_extracted": 13,
+      "channels": [
+        "TikTok organic",
+        "TikTok ads",
+        "Facebook ads",
+        "Influencer partnerships"
+      ],
+      "first_customer_method": "TikTok organic viral videos",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Angus Chang",
+      "product": "Bank Statement Converter",
+      "product_type": "SaaS",
+      "revenue": "$40K/mo",
+      "revenue_monthly": 40000,
+      "niche": "financial data conversion",
+      "title": "I make $40K/month with this one website",
+      "source_id": "1283d055-8a5f-4260-b3be-c7d8acf8e88d",
+      "quotes_extracted": 12,
+      "channels": [
+        "Google search ads",
+        "organic search/SEO",
+        "blogging and building in public",
+        "cold emails"
+      ],
+      "first_customer_method": "Google ads",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Mickey",
+      "product": "Late Social Media API",
+      "product_type": "SaaS",
+      "revenue": "$40K/mo",
+      "revenue_monthly": 40000,
+      "niche": "Social media API/automation",
+      "title": "Zero to $40K/Month With One Marketing Channel (No Social Media)",
+      "source_id": "6253a09b-fbbc-426a-a162-6923387a8551",
+      "quotes_extracted": 11,
+      "channels": [
+        "Google SEO organic",
+        "Google search ads"
+      ],
+      "first_customer_method": "Google search ads",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Joe",
+      "product": "Weightley",
+      "product_type": "mobile app",
+      "revenue": "$40K/month",
+      "revenue_monthly": 40000,
+      "niche": "restaurant wait list and reservations",
+      "title": "My app makes $41K/month",
+      "source_id": "8a9e84fa-a1dc-4142-97b3-d8c09d1a6284",
+      "quotes_extracted": 8,
+      "channels": [
+        "Apple Search Ads",
+        "Email nurturing"
+      ],
+      "first_customer_method": "App Store launch",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Julian Nom",
+      "product": "NotForms",
+      "product_type": "SaaS",
+      "revenue": "$37K/mo",
+      "revenue_monthly": 37000,
+      "niche": "Notion integrations/form builder",
+      "title": "How I Built It: $37K/Month Notion App",
+      "source_id": "6114dfa5-eaa6-403f-b8d8-ee78d5595d1b",
+      "quotes_extracted": 18,
+      "channels": [
+        "Reddit organic",
+        "Facebook groups",
+        "Twitter organic",
+        "Product Hunt",
+        "Viral loops",
+        "Google Ads"
+      ],
+      "first_customer_method": "Reddit and Facebook groups spam",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Samuel Rondo",
+      "product": "Artimis, Story Short, Capacity",
+      "product_type": "SaaS",
+      "revenue": "$35K/mo",
+      "revenue_monthly": 35000,
+      "niche": "LinkedIn scraping, AI video generation, AI coding tools",
+      "title": "I cloned 3 apps and now make $35K/month",
+      "source_id": "ca0ee943-9780-4bc0-b303-26fd067ba702",
+      "quotes_extracted": 13,
+      "channels": [
+        "Google ads",
+        "Meta ads",
+        "SEO",
+        "Faceless YouTube channels",
+        "Affiliate marketing"
+      ],
+      "first_customer_method": "Facebook ads",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Pontis",
+      "product": "Cursor Directory",
+      "product_type": "directory",
+      "revenue": "$35K/month",
+      "revenue_monthly": 35000,
+      "niche": "developer tools/cursor rules",
+      "title": "My website makes $35K/month (built in 3 hours)",
+      "source_id": "d1427be5-00e9-4f04-bf85-27657bb97043",
+      "quotes_extracted": 9,
+      "channels": [
+        "X (Twitter) organic",
+        "Hacker News",
+        "YouTube coverage"
+      ],
+      "first_customer_method": "X (Twitter) post",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Nikita and Yini",
+      "product": "Natural Right",
+      "product_type": "SaaS",
+      "revenue": "$100K in 3 months",
+      "revenue_monthly": 33333,
+      "niche": "AI text humanization",
+      "title": "Our simple app made $100K in 90 days",
+      "source_id": "c7e66e26-d7b3-41ba-bb93-de6f4a914494",
+      "quotes_extracted": 8,
+      "channels": [
+        "TikTok organic",
+        "Paid influencers"
+      ],
+      "first_customer_method": "TikTok organic video",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Joe Popolis",
+      "product": "AI Book Brand",
+      "product_type": "e-commerce",
+      "revenue": "$390K profit to date",
+      "revenue_monthly": 32500,
+      "niche": "AI-generated ebooks",
+      "title": "Meet The Kid Who Made $1M with ChatGPT",
+      "source_id": "eadf3d9e-f1e1-45d6-933b-cc0fcc696e8c",
+      "quotes_extracted": 10,
+      "channels": [
+        "Pinterest ads"
+      ],
+      "first_customer_method": "Pinterest ads",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Aayal and Yali",
+      "product": "PropGPT",
+      "product_type": "mobile app",
+      "revenue": "$30K/mo",
+      "revenue_monthly": 30000,
+      "niche": "sports betting analytics",
+      "title": "How We Built It: $30K/month Mobile App",
+      "source_id": "13e5afaa-0a52-4f52-837e-b8a73bc54077",
+      "quotes_extracted": 10,
+      "channels": [
+        "influencer marketing",
+        "organic social media"
+      ],
+      "first_customer_method": "influencer marketing",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Roman",
+      "product": "Goji Berry AI",
+      "product_type": "SaaS",
+      "revenue": "$30K/mo",
+      "revenue_monthly": 30000,
+      "niche": "intent-based outreach tool",
+      "title": "How I Used Reddit to Build a $34K/Month SaaS",
+      "source_id": "2ff08762-7dbd-4c65-9828-f24d59fe3fb2",
+      "quotes_extracted": 13,
+      "channels": [
+        "Reddit organic",
+        "Cold email via Instantly AI",
+        "LinkedIn outreach",
+        "SEO via OutRank"
+      ],
+      "first_customer_method": "Reddit organic posts",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Alejandro and Mario",
+      "product": "Push School",
+      "product_type": "mobile app",
+      "revenue": "$30K/month",
+      "revenue_monthly": 30000,
+      "niche": "fitness/productivity app",
+      "title": "How We Grew Our App to $30K/Month",
+      "source_id": "3dd0245e-3aee-4db4-8a94-75caca3b4a4c",
+      "quotes_extracted": 12,
+      "channels": [
+        "TikTok organic",
+        "Paid ads"
+      ],
+      "first_customer_method": "viral TikTok video",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "John Makavoy",
+      "product": "Mumigo",
+      "product_type": "mobile app",
+      "revenue": "$30K/mo",
+      "revenue_monthly": 30000,
+      "niche": "public transportation tracking",
+      "title": "How I built a $30K/month mobile app",
+      "source_id": "5630896e-3e78-4f3b-a132-f1d4c60e6b63",
+      "quotes_extracted": 6,
+      "channels": [
+        "app store optimization",
+        "banner ads"
+      ],
+      "first_customer_method": "app store optimization",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Gil",
+      "product": "Subscribr",
+      "product_type": "SaaS",
+      "revenue": "$30K/mo",
+      "revenue_monthly": 30000,
+      "niche": "AI script writing for YouTube creators",
+      "title": "How I Built It: $30K/month Micro-SaaS (Subscribr Breakdown)",
+      "source_id": "608dbf81-df61-4667-93cb-4830b6a42c2f",
+      "quotes_extracted": 10,
+      "channels": [
+        "X/Twitter organic",
+        "Email marketing",
+        "Programmatic SEO",
+        "Word of mouth",
+        "Paid ads"
+      ],
+      "first_customer_method": "Pre-sale to email list built through X/Twitter",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Saadi",
+      "product": "Super Power Chat GPT",
+      "product_type": "Chrome extension",
+      "revenue": "$20-30K/mo",
+      "revenue_monthly": 25000,
+      "niche": "AI productivity tools",
+      "title": "How I Built It: $20K/Month Chrome Extension",
+      "source_id": "04f45178-df7d-4161-89be-49a813ce50f3",
+      "quotes_extracted": 11,
+      "channels": [
+        "Reddit organic",
+        "Word of mouth",
+        "Newsletter sponsorships"
+      ],
+      "first_customer_method": "Reddit organic post",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Anish",
+      "product": "Save Wise",
+      "product_type": "SaaS",
+      "revenue": "$25K/mo",
+      "revenue_monthly": 25000,
+      "niche": "credit card points and airline miles optimization",
+      "title": "How I Used Reddit To Build a $25K/Month Business",
+      "source_id": "096ca03a-8891-41d2-bf14-095d683ba703",
+      "quotes_extracted": 8,
+      "channels": [
+        "Product Hunt",
+        "Hacker News",
+        "Indie Hackers",
+        "Influencer outreach",
+        "Reddit organic",
+        "Facebook groups"
+      ],
+      "first_customer_method": "Reddit weekly Q&A threads",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Alex Finn",
+      "product": "Creator Buddy",
+      "product_type": "SaaS",
+      "revenue": "$300K ARR",
+      "revenue_monthly": 25000,
+      "niche": "AI content creation for social media creators",
+      "title": "I Built an App with Cursor and Made $100K on Launch Day",
+      "source_id": "50212397-f7c0-4f27-8f50-e34b3acee309",
+      "quotes_extracted": 10,
+      "channels": [
+        "Twitter organic",
+        "Building in public",
+        "Beta testing with community"
+      ],
+      "first_customer_method": "Audience launch on X (Twitter)",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Lucas Herman",
+      "product": "Stage Timer",
+      "product_type": "SaaS",
+      "revenue": "$25,000/month",
+      "revenue_monthly": 25000,
+      "niche": "video production and live events",
+      "title": "This App Makes $25,000/Month",
+      "source_id": "70b1200e-50fc-42f6-b95c-c89df1f1df73",
+      "quotes_extracted": 13,
+      "channels": [
+        "Reddit organic",
+        "SEO/Google organic",
+        "Word of mouth/referrals",
+        "YouTube SEO",
+        "Google Ads"
+      ],
+      "first_customer_method": "Reddit post validation",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Andy Cloak",
+      "product": "Data Fetcher",
+      "product_type": "SaaS",
+      "revenue": "$23K/mo",
+      "revenue_monthly": 23000,
+      "niche": "Air Table extensions/integrations",
+      "title": "How I Built It: $23K/month micro-saas",
+      "source_id": "c9a1ce6c-4ffc-44ac-922f-f64ccbb90694",
+      "quotes_extracted": 9,
+      "channels": [
+        "Air Table marketplace",
+        "Content marketing (blog posts and YouTube)"
+      ],
+      "first_customer_method": "Air Table marketplace",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Hassam",
+      "product": "Launch Fast",
+      "product_type": "SaaS",
+      "revenue": "$21.8K/mo",
+      "revenue_monthly": 21800,
+      "niche": "Amazon product research",
+      "title": "How I built my first SaaS without an audience ($25K/month)",
+      "source_id": "3a3a9416-50c3-46c3-84c1-3d2354ffad1f",
+      "quotes_extracted": 12,
+      "channels": [
+        "Partnership with coaching company"
+      ],
+      "first_customer_method": "Partnership with coaching company Legacy X",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Mal Baron",
+      "product": "Prayer Lock",
+      "product_type": "mobile app",
+      "revenue": "$21K/mo",
+      "revenue_monthly": 21000,
+      "niche": "Christian/faith-based apps",
+      "title": "I Built a $20K/Month Mobile App: Here\u2019s My Entire Playbook",
+      "source_id": "c4352320-163b-4621-b620-1eecc044c9ad",
+      "quotes_extracted": 11,
+      "channels": [
+        "TikTok organic",
+        "TikTok ads",
+        "Meta ads",
+        "Influencer marketing"
+      ],
+      "first_customer_method": "TikTok organic with girlfriend reaction videos",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Paul",
+      "product": "The Pathless Path",
+      "product_type": "content site",
+      "revenue": "$249K/yr",
+      "revenue_monthly": 20750,
+      "niche": "self-help/career transition",
+      "title": "I Quit My $250K Job To Become an Author",
+      "source_id": "259a38f8-19de-4828-b095-5990b3f78df4",
+      "quotes_extracted": 10,
+      "channels": [
+        "podcasts",
+        "book gifting",
+        "blog writing"
+      ],
+      "first_customer_method": "writing on Quora daily",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Adrian",
+      "product": "Scrape Creators",
+      "product_type": "SaaS",
+      "revenue": "$20K/mo",
+      "revenue_monthly": 20000,
+      "niche": "Web scraping API for social media",
+      "title": "I Found a Business for Sale and Rebuilt It Into $20K/Month",
+      "source_id": "0c12aaee-3c31-40a2-a3d9-9be325216d11",
+      "quotes_extracted": 8,
+      "channels": [
+        "Twitter organic",
+        "Twitter comments on launch videos"
+      ],
+      "first_customer_method": "Twitter organic post",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Connor",
+      "product": "Payout",
+      "product_type": "mobile app",
+      "revenue": "$20K/mo",
+      "revenue_monthly": 20000,
+      "niche": "class action lawsuit discovery",
+      "title": "I vibe coded a $20K/month mobile app in 14 days",
+      "source_id": "47c8a3f2-b778-4cff-a997-a782e072f27c",
+      "quotes_extracted": 10,
+      "channels": [
+        "influencer campaigns",
+        "Facebook paid ads",
+        "UGC campaigns"
+      ],
+      "first_customer_method": "influencer campaigns",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Colin Macintosh",
+      "product": "Sheets Resume",
+      "product_type": "SaaS",
+      "revenue": "$20K/mo",
+      "revenue_monthly": 20000,
+      "niche": "AI resume building",
+      "title": "How I Built It: $20K/Month AI App as a Non-Technical Founder",
+      "source_id": "ac49b832-bea7-4f72-8f5b-29d60c45cb08",
+      "quotes_extracted": 11,
+      "channels": [
+        "Reddit organic",
+        "Affiliate marketing agency",
+        "Google Ads",
+        "SEO via Reddit"
+      ],
+      "first_customer_method": "Reddit organic",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Devon",
+      "product": "Supergrow",
+      "product_type": "SaaS",
+      "revenue": "$19,000/month",
+      "revenue_monthly": 19000,
+      "niche": "LinkedIn personal branding tools",
+      "title": "How I Made $65K in 3 Days",
+      "source_id": "baae569f-63b6-491f-ab1e-eb05823377fb",
+      "quotes_extracted": 7,
+      "channels": [
+        "Lifetime deal platform (AppSumo)",
+        "Product Hunt",
+        "Customer evangelism"
+      ],
+      "first_customer_method": "Organic LinkedIn/Twitter",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Nevo",
+      "product": "Posties",
+      "product_type": "SaaS",
+      "revenue": "$17K/month",
+      "revenue_monthly": 17000,
+      "niche": "Social media scheduling",
+      "title": "How I Built It: $17K/Month Open Source SaaS",
+      "source_id": "10928126-a54f-4b3c-8c29-a040c503b44f",
+      "quotes_extracted": 10,
+      "channels": [
+        "GitHub trending",
+        "HackerNews",
+        "Reddit r/selfhosted",
+        "Lemmy",
+        "Dev.to/Medium/HackerNoon articles",
+        "Word of mouth from developers",
+        "User generated content on social media",
+        "SEO from blog posts"
+      ],
+      "first_customer_method": null,
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Diego",
+      "product": "App Alchemi",
+      "product_type": "SaaS",
+      "revenue": "$17K/mo",
+      "revenue_monthly": 17000,
+      "niche": "AI-powered mobile app design",
+      "title": "How I Used Reddit to Hit $17K MRR (With ZERO Audience)",
+      "source_id": "92478877-5c4c-417e-88e1-448969823818",
+      "quotes_extracted": 14,
+      "channels": [
+        "Reddit organic"
+      ],
+      "first_customer_method": "Reddit organic posts",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "George Lampropolis",
+      "product": "Wrestle AI",
+      "product_type": "mobile app",
+      "revenue": "$17K/mo",
+      "revenue_monthly": 17000,
+      "niche": "wrestling/sports coaching",
+      "title": "How I grew my mobile app to $17K per month",
+      "source_id": "fb2e2536-6e23-49d5-9e42-0a4662b03677",
+      "quotes_extracted": 15,
+      "channels": [
+        "influencer marketing",
+        "app store optimization"
+      ],
+      "first_customer_method": "co-founder influencer promotion",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Nick",
+      "product": "Block to Pin",
+      "product_type": "SaaS",
+      "revenue": "$16K/mo",
+      "revenue_monthly": 16000,
+      "niche": "Pinterest marketing automation",
+      "title": "I Make $16K/Month... Even In A \"Tiny\" Niche",
+      "source_id": "2251d441-10d8-42a5-87b9-02b276fb196e",
+      "quotes_extracted": 11,
+      "channels": [
+        "Word of mouth",
+        "Affiliates",
+        "SEO",
+        "ChatGPT/LLM recommendations",
+        "Reddit"
+      ],
+      "first_customer_method": "Twitter following and lifetime deal launch",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Fernando",
+      "product": "Resume Maker Online and AI Carousels Pro",
+      "product_type": "SaaS",
+      "revenue": "$15K/mo",
+      "revenue_monthly": 15000,
+      "niche": "Design tools and resume building",
+      "title": "I Make $15K/Month With 2 AI Apps",
+      "source_id": "0be21e65-b49a-4d8a-b000-552cb7320096",
+      "quotes_extracted": 13,
+      "channels": [
+        "Product Hunt",
+        "SEO",
+        "Building in public",
+        "Affiliate program"
+      ],
+      "first_customer_method": "Product Hunt launch",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Ben Boz",
+      "product": "Tech Lockdown",
+      "product_type": "SaaS",
+      "revenue": "$15K/mo",
+      "revenue_monthly": 15000,
+      "niche": "digital wellness/website blocking",
+      "title": "My Side Project Makes $15K/Month (Quit My 9-5)",
+      "source_id": "42f8876a-8f7e-4881-a611-55659fa48ccc",
+      "quotes_extracted": 13,
+      "channels": [
+        "content marketing/SEO",
+        "Reddit organic"
+      ],
+      "first_customer_method": "content marketing - YouTube video and Reddit post",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Maddox Schmidtoffer",
+      "product": "DuckMath",
+      "product_type": "content site",
+      "revenue": "$15K/mo",
+      "revenue_monthly": 15000,
+      "niche": "unblocked games",
+      "title": "I Make $15K/Month From One Website",
+      "source_id": "51aec90f-0ea3-4c42-88ed-f7532ddfe538",
+      "quotes_extracted": 9,
+      "channels": [
+        "TikTok organic",
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Snapchat"
+      ],
+      "first_customer_method": "TikTok organic content",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Lewis",
+      "product": "Audio Pen",
+      "product_type": "SaaS",
+      "revenue": "$15K/mo",
+      "revenue_monthly": 15000,
+      "niche": "AI voice-to-text transcription",
+      "title": "I shipped my app in 12 hours and now it makes $15K/month",
+      "source_id": "5f51815c-caf1-4a6f-abd4-6570c4e9cf05",
+      "quotes_extracted": 9,
+      "channels": [
+        "Twitter build-in-public",
+        "Halfday Build community"
+      ],
+      "first_customer_method": "Twitter build-in-public + waitlist",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Louis",
+      "product": "Glow Up",
+      "product_type": "mobile app",
+      "revenue": "$15K/mo",
+      "revenue_monthly": 15000,
+      "niche": "beauty/makeup",
+      "title": "My mobile app made $800K in 365 days",
+      "source_id": "c26b8c5c-1dd5-423f-95c5-f8ad6b0ee7ff",
+      "quotes_extracted": 15,
+      "channels": [
+        "TikTok organic",
+        "UGC and influencer"
+      ],
+      "first_customer_method": "TikTok viral video",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Sebastian Ro",
+      "product": "Habit Kit",
+      "product_type": "mobile app",
+      "revenue": "$15,000/month",
+      "revenue_monthly": 15000,
+      "niche": "habit tracking",
+      "title": "How I Built It: $15K/month Mobile App",
+      "source_id": "fb47e1d1-423e-4a5a-82aa-e565cc63a9b5",
+      "quotes_extracted": 8,
+      "channels": [
+        "building in public",
+        "Apple search ads",
+        "app store optimization"
+      ],
+      "first_customer_method": "building in public",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Dennis",
+      "product": "Yataphone",
+      "product_type": "SaaS",
+      "revenue": "$14K/month",
+      "revenue_monthly": 14000,
+      "niche": "International calling/VoIP",
+      "title": "I rebuilt a $1B app and now make $14K/month",
+      "source_id": "539f252b-1239-43e7-86b4-1c8d2dd11790",
+      "quotes_extracted": 9,
+      "channels": [
+        "Reddit organic",
+        "SEO/content replacement",
+        "Direct customer outreach"
+      ],
+      "first_customer_method": "Reddit post with screenshots",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Sam",
+      "product": "Algrow",
+      "product_type": "SaaS",
+      "revenue": "$14K/mo",
+      "revenue_monthly": 14000,
+      "niche": "content creation tools for creators/influencers",
+      "title": "I built a $14K/month SaaS using Discord",
+      "source_id": "f7872f69-89a6-4352-9435-2446b24c139b",
+      "quotes_extracted": 11,
+      "channels": [
+        "Discord communities"
+      ],
+      "first_customer_method": "Discord screen sharing",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Prrenit",
+      "product": "Canvas Mode (formerly Rabbit Holes AI)",
+      "product_type": "desktop app",
+      "revenue": "$80K in 6 months",
+      "revenue_monthly": 13333,
+      "niche": "AI productivity tools",
+      "title": "My app failed, then I changed one thing, and made $80K",
+      "source_id": "f462d548-2f4d-4657-829b-a3f3425e3e08",
+      "quotes_extracted": 8,
+      "channels": [
+        "Twitter organic",
+        "Landing page optimization"
+      ],
+      "first_customer_method": "Twitter engagement and landing page optimization",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Bonu",
+      "product": "Site GPT",
+      "product_type": "SaaS",
+      "revenue": "$13K/mo",
+      "revenue_monthly": 13000,
+      "niche": "AI chatbots for websites",
+      "title": "How I Grew My App to $13K/month (Even Though I Hate Marketing)",
+      "source_id": "2145273d-e510-4fcd-b9f5-1979dd1119e6",
+      "quotes_extracted": 9,
+      "channels": [
+        "Google SEO via free tools",
+        "Engineering as marketing"
+      ],
+      "first_customer_method": "organic launch",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Rob Hallum",
+      "product": "SuperX",
+      "product_type": "SaaS",
+      "revenue": "$13K/mo",
+      "revenue_monthly": 13000,
+      "niche": "X/Twitter growth tools",
+      "title": "How I Used Twitter to Hit $10K/Month",
+      "source_id": "6c357b1d-4069-4cda-9361-bb462a5f3292",
+      "quotes_extracted": 12,
+      "channels": [
+        "X organic/build in public",
+        "Video content on X"
+      ],
+      "first_customer_method": "Viral X post about failures",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Chris",
+      "product": "Wish List",
+      "product_type": "mobile app",
+      "revenue": "$150K/year",
+      "revenue_monthly": 12500,
+      "niche": "personal productivity/lifestyle",
+      "title": "This app replaced my 9-5 ($150K/year)",
+      "source_id": "49da02fd-9cb8-42ea-aecc-fe7740841ae2",
+      "quotes_extracted": 11,
+      "channels": [
+        "App Store organic (reviews)",
+        "Word of mouth/user sharing",
+        "Direct user support outreach"
+      ],
+      "first_customer_method": "Friends and family reviews",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Aayush",
+      "product": "Elephas",
+      "product_type": "SaaS",
+      "revenue": "$150K/year",
+      "revenue_monthly": 12500,
+      "niche": "AI Mac assistant",
+      "title": "How I Built a $13K/Month SaaS",
+      "source_id": "63a87340-bbcc-4e58-acba-60f3c4db1d87",
+      "quotes_extracted": 13,
+      "channels": [
+        "Reddit organic",
+        "SEO"
+      ],
+      "first_customer_method": "Reddit posts with video demos",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "David Adius",
+      "product": "Stopper",
+      "product_type": "mobile app",
+      "revenue": "$12K/month",
+      "revenue_monthly": 12000,
+      "niche": "women's health - quitting sugar",
+      "title": "I vibe coded a $12K/month mobile app (Stoppr Breakdown)",
+      "source_id": "7f025f11-3df1-430f-8431-67d9f6a75234",
+      "quotes_extracted": 12,
+      "channels": [
+        "French influencer marketing",
+        "TikTok Spark Ads"
+      ],
+      "first_customer_method": "French influencer marketing",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Demitro",
+      "product": "Screenshot One",
+      "product_type": "SaaS",
+      "revenue": "$12K/mo",
+      "revenue_monthly": 12000,
+      "niche": "API/screenshot automation",
+      "title": "How I Built It: $12K/Month Micro SaaS",
+      "source_id": "ad808bc9-077a-405f-97e0-f7da36a80498",
+      "quotes_extracted": 12,
+      "channels": [
+        "Twitter organic",
+        "Google/SEO",
+        "Zapier integration",
+        "Product Hunt",
+        "YouTube tutorials"
+      ],
+      "first_customer_method": "promoting everywhere - Twitter, Reddit, Hacker News",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Vikash",
+      "product": "Bulk Mockup",
+      "product_type": "SaaS",
+      "revenue": "$12K/mo",
+      "revenue_monthly": 12000,
+      "niche": "Photoshop automation for print-on-demand sellers",
+      "title": "How I Built a $12K/Month Micro-SaaS",
+      "source_id": "bbd06ae8-6751-4672-a85b-335ec99d6a82",
+      "quotes_extracted": 8,
+      "channels": [
+        "YouTube organic",
+        "Google search via YouTube"
+      ],
+      "first_customer_method": "Upwork freelance project",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Abhishek",
+      "product": "Euform",
+      "product_type": "SaaS",
+      "revenue": "$11K/mo",
+      "revenue_monthly": 11000,
+      "niche": "Form builders",
+      "title": "How I Built a $10K/Month SaaS (Beginner Strategy)",
+      "source_id": "41e793a2-2b1f-46ee-b84c-62baa9df69d2",
+      "quotes_extracted": 10,
+      "channels": [
+        "Organic traffic"
+      ],
+      "first_customer_method": "Basic MVP with simple landing page",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Jack Sweeney and Nick Sweeney",
+      "product": "Coherence",
+      "product_type": "mobile app",
+      "revenue": "$85K in 8 months",
+      "revenue_monthly": 10625,
+      "niche": "breathwork and nervous system regulation",
+      "title": "Our Mobile App Made $85K in 8 months",
+      "source_id": "ef356c3c-9587-4fa3-b0cd-540edea16cd1",
+      "quotes_extracted": 8,
+      "channels": [
+        "Twitter/X organic",
+        "Instagram short form",
+        "TikTok organic",
+        "YouTube",
+        "Meta ads"
+      ],
+      "first_customer_method": "viral Twitter content",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Sherman",
+      "product": "Sherman's YouTube Channel",
+      "product_type": "content site",
+      "revenue": "$125,000/year",
+      "revenue_monthly": 10417,
+      "niche": "tech gadgets and fitness",
+      "title": "He Makes $125,000/year As A Niche YouTuber",
+      "source_id": "ae83c34d-b91b-4f31-b7e3-0bd2a069b065",
+      "quotes_extracted": 9,
+      "channels": [
+        "YouTube organic search",
+        "YouTube AdSense",
+        "Affiliate marketing"
+      ],
+      "first_customer_method": "YouTube AdSense",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Pre",
+      "product": "The Wellness Company",
+      "product_type": "mobile app",
+      "revenue": "$120K ARR",
+      "revenue_monthly": 10000,
+      "niche": "health and wellness",
+      "title": "I make $120K/year from 3 mobile apps",
+      "source_id": "3f64534f-ec26-494c-a85d-cbda5120dece",
+      "quotes_extracted": 8,
+      "channels": [
+        "organic app store search",
+        "content creation"
+      ],
+      "first_customer_method": "organic app store search",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Max",
+      "product": "Portfolio of 28 mobile apps",
+      "product_type": "mobile app",
+      "revenue": "$10K/mo",
+      "revenue_monthly": 10000,
+      "niche": "Various mobile app categories",
+      "title": "I make $10K/month from 28 apps",
+      "source_id": "93a9785a-78af-4f2a-8382-822a8ec371ee",
+      "quotes_extracted": 8,
+      "channels": [
+        "App Store organic search",
+        "App Store ads"
+      ],
+      "first_customer_method": "App Store organic discovery",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Joseph and Teemo",
+      "product": "Setter AI",
+      "product_type": "SaaS",
+      "revenue": "$10K/mo",
+      "revenue_monthly": 10000,
+      "niche": "AI appointment setting for B2B sales",
+      "title": "How We Built a $10K/mo SaaS",
+      "source_id": "a3fb6a7f-2bf5-41ba-aad1-0f7269f8498f",
+      "quotes_extracted": 9,
+      "channels": [
+        "SEO organic",
+        "YouTube long-form content",
+        "Free tools (sales script generator)"
+      ],
+      "first_customer_method": "SEO landing page with fake demo",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Jack Ficks",
+      "product": "Curiosity Quench and PostBridge",
+      "product_type": "mobile app and SaaS",
+      "revenue": "$10,000/month combined",
+      "revenue_monthly": 10000,
+      "niche": "productivity apps and social media tools",
+      "title": "I Built a $10K/Month App from My Mom\u2019s Basement",
+      "source_id": "cdb905c8-d373-4006-b203-32e08a20356c",
+      "quotes_extracted": 12,
+      "channels": [
+        "TikTok organic",
+        "Instagram organic",
+        "Twitter/X building in public"
+      ],
+      "first_customer_method": "TikTok organic video",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Thomas",
+      "product": "Unid",
+      "product_type": "SaaS",
+      "revenue": "$10,000/month",
+      "revenue_monthly": 10000,
+      "niche": "Product launch platform",
+      "title": "How I Finally Built a $10K/Month SaaS (30 Failures)",
+      "source_id": "d5976a5b-b82b-4024-a2dd-fd0e64fcddbe",
+      "quotes_extracted": 10,
+      "channels": [
+        "Twitter organic",
+        "Building in public"
+      ],
+      "first_customer_method": null,
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Ivan",
+      "product": "Lancer",
+      "product_type": "SaaS",
+      "revenue": "$10K/month",
+      "revenue_monthly": 10000,
+      "niche": "Upwork automation for freelancers and agencies",
+      "title": "I Built a $10K/Month SaaS Using Other People's Customers",
+      "source_id": "d9ce04be-0b57-4c2b-a28f-2bea59f303bb",
+      "quotes_extracted": 10,
+      "channels": [
+        "Upwork coaches as affiliates",
+        "LinkedIn cold outreach"
+      ],
+      "first_customer_method": "Beta test with agency owner friends",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Jonathan Fishner",
+      "product": "ChartDB",
+      "product_type": "SaaS",
+      "revenue": "$9K/mo",
+      "revenue_monthly": 9000,
+      "niche": "Database visualization for developers",
+      "title": "I Built a Niche App to $9K MRR",
+      "source_id": "4c6f8a77-e9b5-40a5-9292-292f48900079",
+      "quotes_extracted": 10,
+      "channels": [
+        "Hacker News",
+        "GitHub organic",
+        "Reddit (self-hosted subreddits)"
+      ],
+      "first_customer_method": "Hacker News launch",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Leandro",
+      "product": "Synto Sheets",
+      "product_type": "SaaS",
+      "revenue": "$9K/month",
+      "revenue_monthly": 9000,
+      "niche": "Google Sheets add-ons / Notion integrations",
+      "title": "How I Built It: $9K/Month Micro-SaaS",
+      "source_id": "6e68d6fe-2fa3-4767-85f3-e3907533e27f",
+      "quotes_extracted": 12,
+      "channels": [
+        "Google Workspace Marketplace",
+        "SEO/Blog content",
+        "Reddit with F5 bot tracking",
+        "Product Hunt",
+        "Hacker News"
+      ],
+      "first_customer_method": "Reddit and Facebook groups",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Romsri",
+      "product": "Supermeme and Question.ai",
+      "product_type": "SaaS",
+      "revenue": "$8,500/month",
+      "revenue_monthly": 8500,
+      "niche": "AI tools",
+      "title": "I Make $100K/Year From 2 AI Side Projects",
+      "source_id": "600490f0-1fdd-46d6-869d-e04a7600ed25",
+      "quotes_extracted": 8,
+      "channels": [
+        "LinkedIn organic content",
+        "Twitter organic content",
+        "YouTube videos",
+        "Product Hunt launch"
+      ],
+      "first_customer_method": "Social media founder content sharing",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Pauline",
+      "product": "AI Crea",
+      "product_type": "SaaS",
+      "revenue": "$8K/mo",
+      "revenue_monthly": 8000,
+      "niche": "AI home renovation/interior design",
+      "title": "How I Built It: $10K/Month AI Image Generator",
+      "source_id": "9ca25df5-cac7-45ed-92bb-441c7d052d9f",
+      "quotes_extracted": 10,
+      "channels": [
+        "Facebook organic",
+        "Physical events",
+        "Twitter organic",
+        "Product Hunt"
+      ],
+      "first_customer_method": "Direct outreach to real estate agents",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Pat Walls",
+      "product": "Starter Story",
+      "product_type": "content site",
+      "revenue": "$3,500/mo",
+      "revenue_monthly": 3500,
+      "niche": "entrepreneurship/business stories",
+      "title": "The day I hit reset on my life",
+      "source_id": "0b469c16-6653-46cc-a084-35997eddb90b",
+      "quotes_extracted": 8,
+      "channels": [
+        "Reddit organic",
+        "Twitter"
+      ],
+      "first_customer_method": "Reddit viral post",
+      "interview_quality": "medium"
+    },
+    {
+      "founder": "Danny Miranda",
+      "product": "The Danny Miranda Podcast",
+      "product_type": "content site",
+      "revenue": null,
+      "revenue_monthly": 0,
+      "niche": "interview podcast",
+      "title": "How To Build A $100M Podcast Empire",
+      "source_id": "0641423a-a3ab-4801-b74c-8b594630dbcf",
+      "quotes_extracted": 10,
+      "channels": [
+        "Twitter organic",
+        "YouTube clips",
+        "Instagram reels",
+        "Twitter clips"
+      ],
+      "first_customer_method": "organic podcast growth",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Thomas",
+      "product": "Empire International",
+      "product_type": "M&A brokerage",
+      "revenue": "over $1.1B in transactions",
+      "revenue_monthly": 0,
+      "niche": "online business M&A",
+      "title": "Zero to $1.1B from Flipping Websites",
+      "source_id": "2a29830c-b446-4aa5-a7f8-948095da06cf",
+      "quotes_extracted": 13,
+      "channels": [
+        "educational content/course",
+        "referrals"
+      ],
+      "first_customer_method": "course buyers asking for help",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Lots",
+      "product": "Multiple apps (Bible Buddy, Magic Music, Toxic Traits, Pray Screen)",
+      "product_type": "mobile app",
+      "revenue": "$500,000 total from 4 app sales",
+      "revenue_monthly": 0,
+      "niche": "Christian/faith-based mobile apps",
+      "title": "I flipped 4 apps and made $500,000",
+      "source_id": "3c3f8754-97fd-412f-afa9-ba32df2985b4",
+      "quotes_extracted": 10,
+      "channels": [
+        "TikTok UGC",
+        "Meta ads",
+        "WhatsApp"
+      ],
+      "first_customer_method": "UGC on TikTok with rage baiting content",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Pat Walls",
+      "product": "Starter Story",
+      "product_type": "content site",
+      "revenue": "$1M business",
+      "revenue_monthly": 0,
+      "niche": "entrepreneurship/business stories",
+      "title": "I Hacked Reddit To Build A $1M Business",
+      "source_id": "56768abd-ce5e-4353-95c3-c3f008ee485d",
+      "quotes_extracted": 6,
+      "channels": [
+        "Reddit organic"
+      ],
+      "first_customer_method": "Reddit content posting",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Nico",
+      "product": "Make Logo AI and To Notes",
+      "product_type": "mobile app",
+      "revenue": "$265,000 total from sales",
+      "revenue_monthly": 0,
+      "niche": "AI-powered productivity tools",
+      "title": "I Locked Myself In A Room, Made 17 Apps, & Sold 2 for $265,000",
+      "source_id": "6b561bc8-146a-4ab8-bb32-3cac8e46a124",
+      "quotes_extracted": 8,
+      "channels": [
+        "Facebook/Instagram paid ads",
+        "Organic launch"
+      ],
+      "first_customer_method": "Typeform + manual fulfillment",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Kevin Espiritu",
+      "product": "Epic Gardening",
+      "product_type": "content site",
+      "revenue": "tens of millions a year",
+      "revenue_monthly": 0,
+      "niche": "gardening",
+      "title": "I Made $30M With My Side Project",
+      "source_id": "79708b0e-96aa-459e-9332-7b5d75343ad2",
+      "quotes_extracted": 6,
+      "channels": [
+        "blog content",
+        "Instagram stories",
+        "YouTube",
+        "forums commenting"
+      ],
+      "first_customer_method": "Instagram story",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Hunter Hammett",
+      "product": "Assembly",
+      "product_type": "productized services",
+      "revenue": "multiple seven figures across 4 companies",
+      "revenue_monthly": 0,
+      "niche": "creator-led B2B brands",
+      "title": "He's Launching A New $1M Business Every Month",
+      "source_id": "8177ea9a-22f3-4f0e-abec-04743c402643",
+      "quotes_extracted": 10,
+      "channels": [
+        "creator partnerships",
+        "network referrals"
+      ],
+      "first_customer_method": "creator partnerships and network",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Karthik",
+      "product": "Greek House / Athletes Thread",
+      "product_type": "e-commerce",
+      "revenue": "$10M total",
+      "revenue_monthly": 0,
+      "niche": "custom apparel and licensed merchandise",
+      "title": "He Turned $500 Into $10M",
+      "source_id": "8adf35df-d945-4ed9-82bc-16ae60760882",
+      "quotes_extracted": 10,
+      "channels": [
+        "outbound email marketing",
+        "affiliate/ambassador program",
+        "paid search (Google)",
+        "marketplaces (Etsy, Google Shopping)"
+      ],
+      "first_customer_method": "direct outreach to fraternity/sorority networks",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Anya",
+      "product": "Rooted",
+      "product_type": "mobile app",
+      "revenue": "over $1M total",
+      "revenue_monthly": 0,
+      "niche": "mental health/panic attack relief",
+      "title": "This app made over $1M",
+      "source_id": "986385d2-913d-4167-9c05-784d8edf3635",
+      "quotes_extracted": 13,
+      "channels": [
+        "active social media engagement",
+        "press releases and cold email outreach",
+        "app store optimization",
+        "strategic partnerships"
+      ],
+      "first_customer_method": "MVP launch with prototype",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Will Cannon",
+      "product": "Uplead and Signaturely",
+      "product_type": "SaaS",
+      "revenue": "$30M+ total sales",
+      "revenue_monthly": 0,
+      "niche": "B2B data provider and e-signature software",
+      "title": "My two apps made $30M",
+      "source_id": "c6919b53-d519-496a-8898-26be38420260",
+      "quotes_extracted": 10,
+      "channels": [
+        "Cold email",
+        "SEO - tools and templates"
+      ],
+      "first_customer_method": "Cold email and SEO",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Steph France",
+      "product": "Gold Mining Framework",
+      "product_type": "framework/methodology",
+      "revenue": null,
+      "revenue_monthly": 0,
+      "niche": "AI-powered business idea generation",
+      "title": "How to Use AI to Find a $1M Idea [Reddit, Claude]",
+      "source_id": "c9f4dc54-c6bc-456a-ba68-8552e08dc39e",
+      "quotes_extracted": 11,
+      "channels": [
+        "YouTube content"
+      ],
+      "first_customer_method": null,
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Floren Pop",
+      "product": "Portfolio of 8+ income streams",
+      "product_type": "multiple (SaaS, course, content, consulting)",
+      "revenue": "$500K total",
+      "revenue_monthly": 0,
+      "niche": "developer tools and education",
+      "title": "I Made $500K From 8 Different Income Streams",
+      "source_id": "cac51751-7030-44dc-baba-6c967dd5bfd1",
+      "quotes_extracted": 10,
+      "channels": [
+        "Twitter organic",
+        "YouTube",
+        "Reddit",
+        "TikTok"
+      ],
+      "first_customer_method": "freelancing during high school",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Pat Walls",
+      "product": "Starter Story",
+      "product_type": "content site",
+      "revenue": null,
+      "revenue_monthly": 0,
+      "niche": "entrepreneurship/founder interviews",
+      "title": "I sold my company",
+      "source_id": "cc97986d-a06e-4464-a22d-6b25d0c7d478",
+      "quotes_extracted": 8,
+      "channels": [],
+      "first_customer_method": null,
+      "interview_quality": "medium"
+    },
+    {
+      "founder": "Alex Ptis",
+      "product": "Alex's Syndicate",
+      "product_type": "investment syndicate",
+      "revenue": "$60 million deployed",
+      "revenue_monthly": 0,
+      "niche": "venture capital/startup investing",
+      "title": "I Became A Venture Capitalist With Only $1,000",
+      "source_id": "e4b468d3-71ea-4d14-acec-76998a7a0dab",
+      "quotes_extracted": 9,
+      "channels": [
+        "co-syndicating with other syndicate leads",
+        "relationships with VC funds",
+        "portfolio founder referrals",
+        "angel investor network",
+        "investor base referrals"
+      ],
+      "first_customer_method": "co-syndicating with other syndicate leads",
+      "interview_quality": "high"
+    },
+    {
+      "founder": "Polus",
+      "product": "Creator Hunter",
+      "product_type": "SaaS",
+      "revenue": "$30K",
+      "revenue_monthly": 0,
+      "niche": "influencer marketing",
+      "title": "I Built an App with Cursor, Made $30K, and Quit My Job.",
+      "source_id": "e8d4d049-8129-4813-a3bb-8a2ee148a146",
+      "quotes_extracted": 10,
+      "channels": [
+        "Twitter/X organic",
+        "Build in public"
+      ],
+      "first_customer_method": "Twitter/X launch post",
+      "interview_quality": "high"
+    }
+  ]
+}

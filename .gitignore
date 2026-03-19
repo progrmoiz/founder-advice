@@ -1,0 +1,10 @@
+# Raw data (not needed for skill to work)
+data/
+
+# Scripts (build pipeline, not the product)
+scripts/
+
+# Python
+__pycache__/
+*.pyc
+.env

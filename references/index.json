@@ -1,0 +1,564 @@
+{
+  "version": 1,
+  "verdicts": [
+    {
+      "slug": "do-marketing-from-day-one",
+      "title": "Start Marketing Before the Product is Ready",
+      "type": "DO",
+      "summary": "Marketing is not a phase \u2014 it's a habit. Start before you ship.",
+      "keywords": [
+        "marketing",
+        "traffic",
+        "acquisition",
+        "promote",
+        "how to get users",
+        "growth channel",
+        "marketing strategy"
+      ],
+      "mentions": 285,
+      "founders": 99,
+      "file": "verdicts/do-marketing-from-day-one.md",
+      "pair": "dont-ignore-distribution"
+    },
+    {
+      "slug": "do-embrace-the-grind",
+      "title": "Embrace the Grind",
+      "type": "DO",
+      "summary": "Success requires doing unglamorous work. Learn fast, adapt faster.",
+      "keywords": [
+        "grind",
+        "hard work",
+        "hustle",
+        "learn",
+        "skill",
+        "mentorship",
+        "effort"
+      ],
+      "mentions": 185,
+      "founders": 102,
+      "file": "verdicts/do-embrace-the-grind.md",
+      "pair": "dont-give-up-too-early"
+    },
+    {
+      "slug": "do-validate-before-building",
+      "title": "Validate Before Building",
+      "type": "DO",
+      "summary": "Talk to customers, check demand, get paid before writing code.",
+      "keywords": [
+        "validate",
+        "idea validation",
+        "market research",
+        "customer discovery",
+        "demand",
+        "problem",
+        "should I build"
+      ],
+      "mentions": 174,
+      "founders": 97,
+      "file": "verdicts/do-validate-before-building.md",
+      "pair": "dont-overbuild-before-traction"
+    },
+    {
+      "slug": "do-keep-product-simple",
+      "title": "Keep the Product Simple",
+      "type": "DO",
+      "summary": "Solve one problem well. Features don't win \u2014 solving pain does.",
+      "keywords": [
+        "simple",
+        "features",
+        "scope",
+        "bloat",
+        "complexity",
+        "focus",
+        "product",
+        "over-engineering",
+        "one thing"
+      ],
+      "mentions": 154,
+      "founders": 81,
+      "file": "verdicts/do-keep-product-simple.md",
+      "pair": "dont-overbuild-before-traction"
+    },
+    {
+      "slug": "do-focus-on-one-channel",
+      "title": "Master One Channel Before Adding More",
+      "type": "DO",
+      "summary": "Founders who win go deep on one channel before spreading thin.",
+      "keywords": [
+        "channel",
+        "focus",
+        "growth",
+        "one thing",
+        "spread thin",
+        "multichannel",
+        "which channel"
+      ],
+      "mentions": 91,
+      "founders": 66,
+      "file": "verdicts/do-focus-on-one-channel.md",
+      "pair": "dont-spread-across-channels"
+    },
+    {
+      "slug": "do-pick-a-painful-niche",
+      "title": "Pick a Painful Niche",
+      "type": "DO",
+      "summary": "Narrow markets with real pain pay better than broad ones with mild annoyance.",
+      "keywords": [
+        "niche",
+        "market",
+        "target audience",
+        "ICP",
+        "vertical",
+        "industry",
+        "B2B vs B2C",
+        "who to sell to"
+      ],
+      "mentions": 82,
+      "founders": 63,
+      "file": "verdicts/do-pick-a-painful-niche.md",
+      "pair": "dont-target-everyone"
+    },
+    {
+      "slug": "do-launch-fast-and-ugly",
+      "title": "Launch Fast and Ugly",
+      "type": "DO",
+      "summary": "Ship the MVP in weeks, not months. Perfection is the enemy of traction.",
+      "keywords": [
+        "launch",
+        "MVP",
+        "ship",
+        "perfect",
+        "ready",
+        "when to launch",
+        "first version",
+        "just ship"
+      ],
+      "mentions": 75,
+      "founders": 61,
+      "file": "verdicts/do-launch-fast-and-ugly.md",
+      "pair": "dont-overbuild-before-traction"
+    },
+    {
+      "slug": "do-charge-from-day-one",
+      "title": "Charge Real Money From Day One",
+      "type": "DO",
+      "summary": "Free users give you noise. Paying customers give you signal.",
+      "keywords": [
+        "pricing",
+        "free",
+        "freemium",
+        "charge",
+        "monetize",
+        "revenue",
+        "price",
+        "how much to charge",
+        "subscription"
+      ],
+      "mentions": 64,
+      "founders": 51,
+      "file": "verdicts/do-charge-from-day-one.md",
+      "pair": "dont-underprice"
+    },
+    {
+      "slug": "do-outsource-your-weaknesses",
+      "title": "Outsource Your Weaknesses Early",
+      "type": "DO",
+      "summary": "Don't learn everything \u2014 hire for what you're bad at.",
+      "keywords": [
+        "hire",
+        "outsource",
+        "team",
+        "freelancer",
+        "developer",
+        "designer",
+        "co-founder",
+        "alone",
+        "delegation"
+      ],
+      "mentions": 43,
+      "founders": 27,
+      "file": "verdicts/do-outsource-your-weaknesses.md"
+    },
+    {
+      "slug": "do-content-as-distribution",
+      "title": "Use Content as Your Distribution Engine",
+      "type": "DO",
+      "summary": "Content marketing compounds. Create valuable content, attract an audience, convert to customers.",
+      "keywords": [
+        "content marketing",
+        "blog",
+        "social media",
+        "Twitter",
+        "YouTube",
+        "TikTok",
+        "content strategy"
+      ],
+      "mentions": 32,
+      "founders": 13,
+      "file": "verdicts/do-content-as-distribution.md"
+    },
+    {
+      "slug": "do-compete-on-speed-not-features",
+      "title": "Compete on Speed, Not Features",
+      "type": "DO",
+      "summary": "You can't out-feature incumbents. But you can out-speed and out-care them.",
+      "keywords": [
+        "competition",
+        "competitors",
+        "differentiate",
+        "moat",
+        "crowded market",
+        "red ocean",
+        "positioning"
+      ],
+      "mentions": 32,
+      "founders": 25,
+      "file": "verdicts/do-compete-on-speed-not-features.md"
+    },
+    {
+      "slug": "do-consistency-beats-talent",
+      "title": "Consistency Beats Talent",
+      "type": "DO",
+      "summary": "Show up every day. The founders who win are the ones who don't stop.",
+      "keywords": [
+        "consistency",
+        "daily",
+        "routine",
+        "habit",
+        "discipline",
+        "compound",
+        "long game",
+        "patience",
+        "show up"
+      ],
+      "mentions": 27,
+      "founders": 20,
+      "file": "verdicts/do-consistency-beats-talent.md",
+      "pair": "dont-give-up-too-early"
+    },
+    {
+      "slug": "do-iterate-based-on-data",
+      "title": "Iterate Based on Data, Not Gut",
+      "type": "DO",
+      "summary": "Let users and metrics tell you what to build next, not your instincts.",
+      "keywords": [
+        "iterate",
+        "data",
+        "analytics",
+        "metrics",
+        "A/B test",
+        "feedback loop",
+        "user data",
+        "what to build next"
+      ],
+      "mentions": 24,
+      "founders": 21,
+      "file": "verdicts/do-iterate-based-on-data.md"
+    },
+    {
+      "slug": "do-retention-over-acquisition",
+      "title": "Retention Beats Acquisition Every Time",
+      "type": "DO",
+      "summary": "A leaky bucket can't be filled. Fix churn before scaling growth.",
+      "keywords": [
+        "retention",
+        "churn",
+        "cancel",
+        "keep customers",
+        "support",
+        "NPS",
+        "lifetime value",
+        "LTV"
+      ],
+      "mentions": 22,
+      "founders": 20,
+      "file": "verdicts/do-retention-over-acquisition.md",
+      "pair": "dont-add-features-to-fix-churn"
+    },
+    {
+      "slug": "do-plan-your-escape",
+      "title": "Plan Your Escape from Employment",
+      "type": "DO",
+      "summary": "Build the side project while employed, but have a clear exit number.",
+      "keywords": [
+        "quit job",
+        "full-time",
+        "side project",
+        "employment",
+        "bootstrap",
+        "savings",
+        "when to quit",
+        "escape"
+      ],
+      "mentions": 21,
+      "founders": 14,
+      "file": "verdicts/do-plan-your-escape.md",
+      "pair": "dont-raise-unless-you-must"
+    },
+    {
+      "slug": "do-email-and-direct-outreach",
+      "title": "Cold Email and Direct Outreach Still Works",
+      "type": "DO",
+      "summary": "DMs, cold emails, and direct outreach get your first customers faster than content.",
+      "keywords": [
+        "cold email",
+        "outreach",
+        "DM",
+        "direct message",
+        "cold outreach",
+        "first customers",
+        "email list",
+        "newsletter"
+      ],
+      "mentions": 18,
+      "founders": 14,
+      "file": "verdicts/do-email-and-direct-outreach.md"
+    },
+    {
+      "slug": "dont-give-up-too-early",
+      "title": "Don't Give Up Too Early",
+      "type": "DONT",
+      "summary": "Most founders quit right before it clicks. Give it 12-24 months minimum.",
+      "keywords": [
+        "give up",
+        "quit",
+        "too early",
+        "patience",
+        "persist",
+        "almost quit",
+        "how long",
+        "when to quit idea"
+      ],
+      "mentions": 18,
+      "founders": 14,
+      "file": "verdicts/dont-give-up-too-early.md",
+      "pair": "do-consistency-beats-talent"
+    },
+    {
+      "slug": "do-scratch-your-own-itch",
+      "title": "Scratch Your Own Itch",
+      "type": "DO",
+      "summary": "Build something you personally need. You become the ideal user.",
+      "keywords": [
+        "own problem",
+        "scratch itch",
+        "personal pain",
+        "I needed this",
+        "build for yourself",
+        "own experience"
+      ],
+      "mentions": 17,
+      "founders": 15,
+      "file": "verdicts/do-scratch-your-own-itch.md"
+    },
+    {
+      "slug": "dont-overbuild-before-traction",
+      "title": "Don't Overbuild Before You Have Traction",
+      "type": "DONT",
+      "summary": "Building for 6 months without users is the most common founder mistake.",
+      "keywords": [
+        "overbuild",
+        "too many features",
+        "spent too long building",
+        "scope creep",
+        "feature creep",
+        "gold plating",
+        "perfectionism"
+      ],
+      "mentions": 15,
+      "founders": 14,
+      "file": "verdicts/dont-overbuild-before-traction.md",
+      "pair": "do-launch-fast-and-ugly"
+    },
+    {
+      "slug": "do-seo-compounds-over-time",
+      "title": "SEO Compounds \u2014 Start Early",
+      "type": "DO",
+      "summary": "SEO takes months to kick in but becomes your best channel once it does.",
+      "keywords": [
+        "SEO",
+        "search engine",
+        "Google",
+        "organic traffic",
+        "keywords",
+        "blog posts",
+        "programmatic SEO",
+        "long-term"
+      ],
+      "mentions": 11,
+      "founders": 6,
+      "file": "verdicts/do-seo-compounds-over-time.md"
+    },
+    {
+      "slug": "dont-target-everyone",
+      "title": "Don't Try to Target Everyone",
+      "type": "DONT",
+      "summary": "A product for everyone is a product for no one. Go narrow, go deep.",
+      "keywords": [
+        "everyone",
+        "too broad",
+        "target market",
+        "broad audience",
+        "generic product",
+        "who is this for",
+        "niche down"
+      ],
+      "mentions": 11,
+      "founders": 10,
+      "file": "verdicts/dont-target-everyone.md",
+      "pair": "do-pick-a-painful-niche"
+    },
+    {
+      "slug": "dont-add-features-to-fix-churn",
+      "title": "Don't Add Features to Fix Churn",
+      "type": "DONT",
+      "summary": "If people leave, it's not because you lack features. It's because the core isn't solving their problem.",
+      "keywords": [
+        "churn",
+        "features won't fix",
+        "adding features",
+        "still churning",
+        "why people leave",
+        "cancel"
+      ],
+      "mentions": 10,
+      "founders": 8,
+      "file": "verdicts/dont-add-features-to-fix-churn.md",
+      "pair": "do-retention-over-acquisition"
+    },
+    {
+      "slug": "do-leverage-tools-and-ai",
+      "title": "Leverage No-Code, AI, and Existing Tools",
+      "type": "DO",
+      "summary": "You don't need to build everything from scratch. Use what exists.",
+      "keywords": [
+        "no-code",
+        "AI",
+        "tools",
+        "automate",
+        "template",
+        "Zapier",
+        "ChatGPT",
+        "vibe coding",
+        "build faster"
+      ],
+      "mentions": 8,
+      "founders": 6,
+      "file": "verdicts/do-leverage-tools-and-ai.md"
+    },
+    {
+      "slug": "do-paid-ads-after-organic",
+      "title": "Go Organic First, Paid Ads Second",
+      "type": "DO",
+      "summary": "Prove the message works organically before spending money on ads.",
+      "keywords": [
+        "paid ads",
+        "Facebook ads",
+        "Google ads",
+        "TikTok ads",
+        "ad spend",
+        "ROAS",
+        "organic first",
+        "when to run ads"
+      ],
+      "mentions": 8,
+      "founders": 7,
+      "file": "verdicts/do-paid-ads-after-organic.md"
+    },
+    {
+      "slug": "do-talk-to-customers",
+      "title": "Talk to Customers Obsessively",
+      "type": "DO",
+      "summary": "The answers aren't in your head. They're in customer conversations.",
+      "keywords": [
+        "customers",
+        "feedback",
+        "interviews",
+        "talk to users",
+        "customer development",
+        "listening",
+        "sales calls"
+      ],
+      "mentions": 8,
+      "founders": 4,
+      "file": "verdicts/do-talk-to-customers.md"
+    },
+    {
+      "slug": "dont-spread-across-channels",
+      "title": "Don't Spread Across Too Many Channels",
+      "type": "DONT",
+      "summary": "Doing 5 channels at 20% beats doing 1 channel at 100%. Wait \u2014 it doesn't.",
+      "keywords": [
+        "too many channels",
+        "spread thin",
+        "every channel",
+        "unfocused marketing",
+        "tried everything"
+      ],
+      "mentions": 5,
+      "founders": 4,
+      "file": "verdicts/dont-spread-across-channels.md",
+      "pair": "do-focus-on-one-channel"
+    },
+    {
+      "slug": "dont-raise-unless-you-must",
+      "title": "Don't Raise Money Unless You Absolutely Must",
+      "type": "DONT",
+      "summary": "Bootstrapping keeps you in control. VC money comes with strings.",
+      "keywords": [
+        "funding",
+        "VC",
+        "investors",
+        "bootstrap",
+        "raise money",
+        "venture capital",
+        "angel",
+        "self-funded"
+      ],
+      "mentions": 4,
+      "founders": 3,
+      "file": "verdicts/dont-raise-unless-you-must.md",
+      "pair": "do-plan-your-escape"
+    },
+    {
+      "slug": "dont-ignore-distribution",
+      "title": "Don't Ignore Distribution",
+      "type": "DONT",
+      "summary": "If you build it, they won't come. Distribution is not optional.",
+      "keywords": [
+        "no traffic",
+        "no users",
+        "built it and nobody came",
+        "forgot marketing",
+        "distribution",
+        "nobody knows",
+        "invisible product"
+      ],
+      "mentions": 3,
+      "founders": 3,
+      "file": "verdicts/dont-ignore-distribution.md",
+      "pair": "do-marketing-from-day-one"
+    },
+    {
+      "slug": "dont-underprice",
+      "title": "Don't Underprice Your Product",
+      "type": "DONT",
+      "summary": "Charging too little attracts bad customers and kills your margins. Compete on value, not price.",
+      "keywords": [
+        "too cheap",
+        "underprice",
+        "raise prices",
+        "should charge more",
+        "leaving money on table",
+        "price too low",
+        "race to bottom",
+        "cheapest",
+        "compete on price"
+      ],
+      "mentions": 2,
+      "founders": 2,
+      "file": "verdicts/dont-underprice.md",
+      "pair": "do-charge-from-day-one"
+    }
+  ]
+}
