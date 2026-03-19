@@ -101,4 +101,5 @@ All quotes extracted from [Starter Story](https://www.starterstory.com/) YouTube
 ## Credits
 
 - Interview data: [Starter Story](https://youtube.com/@starterstory) by [@PatWalls](https://twitter.com/thepatwalls)
+- Inspired by: [@tibo_maker](https://twitter.com/tibo_maker)'s tmaker.io/advisor
 - Built by: [@iammoizfarooq](https://twitter.com/iammoizfarooq)
