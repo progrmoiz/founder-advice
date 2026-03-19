@@ -1,10 +1,10 @@
-# Raw data (not needed for skill to work)
+# Raw data (transcripts + extractions, too large for GitHub)
 data/
-
-# Scripts (build pipeline, not the product)
-scripts/
 
 # Python
 __pycache__/
 *.pyc
 .env
+
+# Nanobanana output
+nanobanana-output/
